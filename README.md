@@ -48,7 +48,7 @@ python main.py
 
 ## Recursos Adicionales ✅
 
-- Se recomiendo visitar la [Documentación Oficial de Python](https://docs.python.org/3.11/) para un mayor aprendizaje.
+- Se recomienda visitar la [Documentación Oficial de Python](https://docs.python.org/3.11/) para un mayor aprendizaje.
 
 ## Autores 🖊
 
